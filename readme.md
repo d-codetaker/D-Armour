@@ -26,7 +26,7 @@ To get started with D-Armour, follow these steps:
 -   Sachin Kapadia (@sachinkapadia)
 -   Vishakha Soni (@vishakhasoni)
 
-Contributions, issues, and feature requests are welcome. Feel free to check out our [contribution guidelines](https://chat.openai.com/chat/CONTRIBUTING.md).
+Contributions, issues, and feature requests are welcome. Feel free to check out our [contribution guidelines](https://github.com/d-codetaker/D-Armour/blob/main/CONTRIBUTING.md).
 
 ## 🔒 Security
 
