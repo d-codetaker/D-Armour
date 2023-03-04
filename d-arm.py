@@ -101,7 +101,7 @@ def unblock_old_ips():
 # Define the function to check if an IP is whitelisted
 def is_whitelisted(ip):
     # You can customize this function to check your own whitelist rules
-    whitelist = ['103.102.58.110']
+    whitelist = ['Your IP']
     return ip in whitelist
 
 while True:
