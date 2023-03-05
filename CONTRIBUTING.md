@@ -4,7 +4,7 @@
 
 ## Code of Conduct
 
-All contributors are expected to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and welcoming environment.
+All contributors are expected to adhere to the [Code of Conduct](https://github.com/d-codetaker/D-Armour/blob/main/code_of_conduct.md) to ensure a respectful and welcoming environment.
 
 ## Reporting Bugs and Issues
 
