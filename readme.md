@@ -17,7 +17,7 @@ To get started with D-Armour, follow these steps:
 
 1.  Clone the repo: `git clone https://github.com/d-codetaker/D-Armour.git`
 2.  Install required packages: `pip install -r requirements.txt`
-3.  Configure settings: sudo nano `d-arm.py`
+3.  Configure settings:`sudo nano d-arm.py`
 4.  Run the program: `python d-arm.py`
 
 ## Contributors 👥
